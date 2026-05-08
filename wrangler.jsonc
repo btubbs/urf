@@ -20,7 +20,7 @@
 	],
   "kv_namespaces": [
     {
-      "binding": "urf-session",
+      "binding": "SESSION",
       "id": "706fdd1376fc4d39b955bea2fec214bf",
     },
   ],	
