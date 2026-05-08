@@ -18,6 +18,13 @@
 			"bucket_name": "urf","preview_bucket_name": "urf",
 		},
 	],
+  "kv_namespaces": [
+    {
+      "binding": "SESSION",
+      "binding": "urf-session",
+      "id": "706fdd1376fc4d39b955bea2fec214bf",
+    },
+  ],	
 	// Worker Loader for plugin sandboxing
 	//"worker_loaders": [
 		//{
