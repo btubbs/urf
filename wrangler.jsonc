@@ -24,6 +24,12 @@
       "id": "706fdd1376fc4d39b955bea2fec214bf",
     },
   ],	
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    }
+  }
 	// Worker Loader for plugin sandboxing
 	//"worker_loaders": [
 		//{
